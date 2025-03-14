@@ -3,9 +3,9 @@ import pandas as pd
 import datetime
 
 # OpenWeatherMap API Key (Replace with your actual key)
-API_KEY = "c1397ee0ab43f16c097244cb08358d0d"
+API_KEY = "XXXXXXXXXXXXXXXXXXXX"
 
-# City Name (Make sure it's in quotes)
+# City Name 
 CITY = "Hyderabad"
 
 # API URL
